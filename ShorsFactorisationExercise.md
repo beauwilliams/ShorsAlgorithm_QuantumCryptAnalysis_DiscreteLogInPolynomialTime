@@ -1,3 +1,5 @@
+# PS: View Me in the RAW format. Github messes up the formatting into one hard to read chunk 😊
+
                                                                    GP/PARI CALCULATOR Version 2.11.4 (released)
                                                            i386 running darwin (x86-64/GMP-6.2.0 kernel) 64-bit version
                                                       compiled: May 14 2020, Apple clang version 11.0.0 (clang-1100.0.33.17)
